@@ -44,7 +44,7 @@ Você também pode decidir usar o [Google Colab](https://colab.research.google.c
 
 <a name="agradecimentos"></a>
 ## Agradecimentos
-Gostaria de agradecer ao Sinakhorami (não encontrei seu nome verdadeiro) pelo seu [notebook](https://www.kaggle.com/sinakhorami/titanic-best-working-classifier) por fornecer ideias para a visualização da acurácia dos modelos e ao Simone Centellegher pelas ideias para [criar bar plots bonitos] (https://scentellegher.github.io/visualization/2018/10/10/beautiful-bar-plots-matplotlib.html).
+Gostaria de agradecer ao Sinakhorami (não encontrei seu nome verdadeiro) pelo seu [notebook](https://www.kaggle.com/sinakhorami/titanic-best-working-classifier) por fornecer ideias para a visualização da acurácia dos modelos e ao Simone Centellegher pelas ideias para [criar bar plots bonitos](https://scentellegher.github.io/visualization/2018/10/10/beautiful-bar-plots-matplotlib.html).
 
 <a name="licença"></a>
 ## Licença
