@@ -48,7 +48,7 @@ Gostaria de agradecer ao Sinakhorami (não encontrei seu nome verdadeiro) pelo s
 
 <a name="licença"></a>
 ## Licença
-Este projeto está sobre a licença MIT - cheque o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está sobre a licença MIT - cheque o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
 
